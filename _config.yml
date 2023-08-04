@@ -83,11 +83,11 @@ author:
   name             : "Zhilu Zhang"
   avatar           : "profile1.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Suzhou China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=zhilu"
+  googlescholar    : "http://googlescholarurl.com"
+  email            : "zhilu@liverpool.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhilu2019"
   google_plus      :
   keybase          :
   instagram        :
