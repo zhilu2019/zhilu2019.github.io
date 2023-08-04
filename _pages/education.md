@@ -12,5 +12,7 @@ redirect_from:
 Education
 ======
 PhD in Computer Science, University of Liverpool, Now
+
 MSc in Multimedia Communication, University of Liverpool, 2021
+
 BSc in Electronic Information Science and Technology, Yunna University, 2018
