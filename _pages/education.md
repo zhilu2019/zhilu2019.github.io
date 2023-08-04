@@ -11,13 +11,6 @@ redirect_from:
 
 Education
 ======
--PhD. Dublin City University, Ireland, 2016-2021. My PhD. topic was Proactive Information Retrieval.
--M.Tech in Computer Science, Indian Statistical Institute, Kolkata, India, 2014-2016.
--B.Tech in Computer Science, Institute of Engineering and Management, Kolkata, India, 2009-2013.
-
-  
-Teaching
-======
-
-Service and leadership
-======
+PhD in Computer Science, University of Liverpool, Now
+MSc in Multimedia Communication, University of Liverpool, 2021
+BSc in Electronic Information Science and Technology, Yunna University, 2018
